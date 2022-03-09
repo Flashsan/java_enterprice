@@ -1,4 +1,6 @@
-0 pavel 54 null 56 76
+1 pavel 54 null 56 76
 1 Pavel 54 3 56 76
-Pavel 1 0 54 76 2
+-1 Pavel 54 3 56 76
+Pavel 1 0 0
+Pavel 2 0 0
 0 3 6 5
